@@ -1,0 +1,23 @@
+name: taiga
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - pandas
+  - statsmodels
+  - larch>=5.3
+  - networkx>=2.2
+  - matplotlib
+  - seaborn
+  - pydot
+  - graphviz
+  - xlrd
+  - xlsxwriter
+  - ipykernel
+  - nb_conda
+  - jupyter_contrib_nbextensions
+  - jupyterlab
+  - notebook
+  
